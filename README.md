@@ -1,7 +1,7 @@
 # TrackingWaterLevel  
 Using Arduino (ESP8266) for tracking water level in proof. Updating to firebase for app in real time. 
 
-![](https://arduino.esp8266.vn/_images/Iot-wifi-uno-hw-pinout1.png)
+<img src="https://arduino.esp8266.vn/_images/Iot-wifi-uno-hw-pinout1.png" alt="Arduino Uno Wifi" width="250"/>
 
 # About my project  
 
