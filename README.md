@@ -20,16 +20,16 @@ Using Arduino (ESP8266) for tracking water level in proof. Updating to firebase 
 
 # Things need to be prepared for this project  
 
-– Arduino ESP8266 combined with UNO version (You still can use esp8266).  
-- Module Sim 900A.  
-- Relay 2 module with Opto (removal noise of electrical contacting).  
-- HCSR04 sensor for traking water level, you can use some waterproof version.  
-- Real time RTC tiny module.  
-- One  DC supply 12V with some lm2596 lower volatge in compatible with this project.  
-- 2 water-bottle (bottle type 18L is my choice).  
-- Pump and electric controlling faucet 12V-DC  
+* Arduino ESP8266 combined with UNO version (You still can use esp8266).  
+* Module Sim 900A.  
+* Relay 2 module with Opto (removal noise of electrical contacting).  
+* HCSR04 sensor for traking water level, you can use some waterproof version.  
+* Real time RTC tiny module.  
+* One  DC supply 12V with some lm2596 lower volatge in compatible with this project.  
+* 2 water-bottle (bottle type 18L is my choice).  
+* Pump and electric controlling faucet 12V-DC  
 
-# Notice: because i'm lack of software knowledge, so that you can see only embedded code C base on Arduino in this project.  
+### Notice: because i'm lack of software knowledge, so that you can see only embedded code C base on Arduino in this project.  
 
 📌For more information, please contact to my email: vietlongle2000@gmail.com  
 📌Be healthy and hard work, my friends.  
